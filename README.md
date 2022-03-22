@@ -17,3 +17,6 @@ Dependencies are
 what else is missing).
 
 Of course `picom`,`rofi` and `polybar` have to be installed.
+
+Picom still needs further configuration for Nvidia to avoid
+tearing.
