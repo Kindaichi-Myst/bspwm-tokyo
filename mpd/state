@@ -1,0 +1,108 @@
+sw_volume: 100
+audio_device_state:1:MPD
+audio_device_state:1:toggle_visualizer
+state: play
+current: 80
+time: 30.294000
+random: 1
+repeat: 0
+single: 0
+consume: 1
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Airi Suzuki - 26 ⁄ 27/01. ハイビート気分.mp3
+1:Liella!/[2021-2022] Anime/[2021.07.21] START!! True dreams/01. START!! True dreams.mp3
+2:Liella!/[2021-2022] Anime/[2021.07.21] START!! True dreams/01. START!! True dreams.mp3
+3:Liella!/[2021-2022] Anime/[2021.07.21] START!! True dreams/02. だから僕らは鳴らすんだ！.mp3
+4:Liella!/[2021-2022] Anime/[2021.07.21] START!! True dreams/03. START!! True dreams (Off Vocal).mp3
+5:Liella!/[2021-2022] Anime/[2021.08.04] 未来は風のように/01. 未来は風のように.mp3
+6:Liella!/[2021-2022] Anime/[2021.08.04] 未来は風のように/02. この街でいまキミと.mp3
+7:Liella!/[2021-2022] Anime/[2021.08.25] Tiny Stars/01. Tiny Stars.mp3
+8:Liella!/[2021-2022] Anime/[2021.08.25] Tiny Stars/02. 1.2.3！.mp3
+9:Liella!/[2021-2022] Anime/[2021.08.25] Tiny Stars/04. 1.2.3！ (Off Vocal).mp3
+10:Liella!/[2021-2022] Anime/[2021.08.25] 未来予報ハレルヤ！/04. GOING UP (Off Vocal).mp3
+11:Liella!/[2021-2022] Anime/[2021.09.29] Wish Song/02. 瞬きの先へ.mp3
+12:Liella!/[2021-2022] Anime/[2021.09.29] Wish Song/03. Wish Song (Off Vocal).mp3
+13:Liella!/[2021-2022] Anime/[2021.09.29] 常夏☆サンシャイン/01. 常夏☆サンシャイン.mp3
+14:Liella!/[2021-2022] Anime/[2021.10.20] Starlight Prologue/02. Dream Rainbow.mp3
+15:Liella!/[2021-2022] Anime/[2021.10.20] Starlight Prologue/03. Starlight Prologue (Off Vocal).mp3
+16:Liella!/[2021-2022] Anime/[2021.10.20] Starlight Prologue/04. Dream Rainbow (Off Vocal).mp3
+17:Liella!/[2021-2022] Anime/[2021.10.20] ノンフィクション!!/01. ノンフィクション!!.mp3
+18:Liella!/[2021-2022] Anime/[2021.10.20] ノンフィクション!!/03. ノンフィクション!! (Off Vocal).mp3
+19:Liella!/[2021-2022] Anime/[2021.10.20] ノンフィクション!!/04. Day1 (Off Vocal).mp3
+20:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc1/01. Main Theme of LoveLive! Superstar!!.mp3
+21:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc1/03. ほんのちょっぴり 〜Orchestra Ver.〜.mp3
+22:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc1/04. 気怠い朝.mp3
+23:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc1/05. ハイテンション！.mp3
+24:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc1/06. 新しい私.mp3
+25:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc1/07. パタリ、、.mp3
+26:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc1/12. 本当の気持ち.mp3
+27:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc1/14. 輝く気持ち.mp3
+28:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc1/15. 許すまじ…！.mp3
+29:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc1/17. 決戦！.mp3
+30:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc1/18. よそ行き笑顔.mp3
+31:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc1/20. 諦めない気持ち.mp3
+32:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc1/21. いつか.mp3
+33:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc1/22. 2人の気持ち.mp3
+34:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc1/23. やっぱりダメ.mp3
+35:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc1/26. それぞれの想い.mp3
+36:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc1/27. 新たな決心.mp3
+37:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc1/28. 想いをカタチに.mp3
+38:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc1/30. グソクムシの少女.mp3
+39:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc1/31. 近づかない距離.mp3
+40:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc1/32. 忍び寄る影.mp3
+41:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc2/02. 助けてー！！.mp3
+42:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc2/03. 囚われの身.mp3
+43:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc2/04. 秘められた過去.mp3
+44:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc2/08. ゆったり〜まったり〜.mp3
+45:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc2/09. 始まりの瞬間.mp3
+46:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc2/11. バカンスへ♪.mp3
+47:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc2/14. 想いをはせて.mp3
+48:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc2/18. 好きだけじゃない.mp3
+49:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc2/19. 想いはひとつ.mp3
+50:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc2/21. 閉ざされた心.mp3
+51:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc2/22. 対立.mp3
+52:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc2/25. 星の連なり.mp3
+53:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc2/27.あなたのために.mp3
+54:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc3/01. ほんのちょっぴり.mp3
+55:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc3/04. だいすきのうた.mp3
+56:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc3/06. 未来は風のように 〜第2話Ver.〜.mp3
+57:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc3/07. Tiny Stars 〜TV Size〜.mp3
+58:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc3/13. 常夏☆サンシャイン 〜TV Size〜.mp3
+59:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc3/14. 未来は風のように 〜第6話Ver.〜.mp3
+60:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc3/16. Wish Song 〜TV Size〜.mp3
+61:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc3/18. 未来は風のように 〜第9話Ver.〜.mp3
+62:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc3/19. ノンフィクション!! 〜TV Size〜.mp3
+63:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc3/20. 未来は風のように 〜第10話Ver.〜.mp3
+64:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc3/22. 未来は風のように 〜第11話Ver.〜.mp3
+65:Liella!/[2021-2022] Anime/[2021.10.27] 「Dreams of the Superstar」 オリジナルサウンドトラック/Disc3/24. 未来は風のように 〜第12話Ver.〜.mp3
+66:Liella!/[2021-2022] Anime/[2022.02.02] HOT PASSION!!/01. HOT PASSION!!.mp3
+67:Liella!/[2021-2022] Anime/[2022.02.02] HOT PASSION!!/03. HOT PASSION!! (Off Vocal).mp3
+68:Liella!/[2021-2022] Anime/[2022.02.02] HOT PASSION!!/04. Till Sunrise (Off Vocal).mp3
+69:Liella!/[2021-2022] Original Songs/[2021.12.24] オリジナルソングCD4「ヒロインズ☆ランウェイ」/01. ヒロインズ☆ランウェイ.mp3
+70:Liella!/[2021-2022] Original Songs/[2022.01.26] オリジナルソングCD5「リバーブ」/01. リバーブ.mp3
+71:Liella!/[2021-2022] Original Songs/[2022.01.26] オリジナルソングCD5「リバーブ」/02. リバーブ (Off Vocal).mp3
+72:Liella!/[2021-2022] Singles/[2021.04.07] 始まりは君の空/02. Dancing Heart La-Pa-Pa-Pa!.mp3
+73:Liella!/[2021-2022] Singles/[2021.04.07] 始まりは君の空/03. Dreaming Energy.mp3
+74:Liella!/[2021-2022] Singles/[2021.04.07] 始まりは君の空/04. 私のSymphony.mp3
+75:Liella!/[2021-2022] Singles/[2021.04.07] 始まりは君の空/05. 始まりは君の空 (Off Vocal).mp3
+76:Liella!/[2021-2022] Singles/[2021.04.07] 始まりは君の空/07. Dreaming Energy (Off Vocal).mp3
+77:Liella!/[2021-2022] Singles/[2021.04.07] 始まりは君の空/08. 私のSymphony (Off Vocal).mp3
+78:Liella!/[2021-2022] Special/[2021.10.27] リエラのうた/01. Primary.mp3
+79:Liella!/[2021-2022] Special/[2021.10.27] リエラのうた/03. Memories.mp3
+80:Liella!/[2021-2022] Special/[2021.10.27] リエラのうた/04. Anniversary.mp3
+81:Liella!/[2021-2022] Special/[2021.10.27] リエラのうた/05. Anniversary.mp3
+82:Liella!/[2021-2022] Special/[2021.10.27] リエラのうた/06. Message.mp3
+83:Liella!/[2021-2022] Special/[2021.10.27] リエラのうた/08. Ringing!.mp3
+84:Liella!/[2021-2022] Special/[2021.10.27] リエラのうた/11. Dears.mp3
+85:Liella!/[2021-2022] Special/[2021.11.03] LIVE with a smile!/03. LIVE with a smile! (Off Vocal).mp3
+86:Liella!/[2021-2022] Special/[2021.11.24] Shooting Voice!!/01. Shooting Voice!!.mp3
+87:Liella!/[2021-2022] Special/[2021.11.24] Shooting Voice!!/02. Shooting Voice!! (Off Vocal).mp3
+88:Liella!/[2022-2022] Albums/[2022.03.02] What a Wonderful Dream!!/03. 水色のSunday.mp3
+89:Liella!/[2022-2022] Albums/[2022.03.02] What a Wonderful Dream!!/05. みてろ！.mp3
+90:Liella!/[2022-2022] Albums/[2022.03.02] What a Wonderful Dream!!/08. 青空を待ってる.mp3
+91:Liella!/[2022-2022] Albums/[2022.03.02] What a Wonderful Dream!!/09. 未来は風のように.mp3
+92:Liella!/[2022-2022] Albums/[2022.03.02] What a Wonderful Dream!!/10. ユニゾン.mp3
+playlist_end
